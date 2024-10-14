@@ -1,0 +1,19 @@
+{
+    "d": 3, 
+    "switches": ["switch1","switch2","switch3","switch4","switch5","switch6","switch7","switch8"],
+    "paths": {
+        "path1":[24,["switch1","switch2","switch3","switch4"]], 
+        "path2":[24,["switch5","switch2","switch6"]],
+        "path3":[24,["switch7","switch3","switch4","switch8"]]
+    },
+    "switch_p":{
+        "switch1":0.4,
+        "switch2":0.34,
+        "switch3":0.2,
+        "switch4":0.17,
+        "switch5":0.4,
+        "switch6":0,
+        "switch7":0.4,
+        "switch8":0
+    }
+}
